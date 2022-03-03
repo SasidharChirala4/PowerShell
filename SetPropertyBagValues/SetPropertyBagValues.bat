@@ -1,0 +1,1 @@
+powershell.exe -command ".\SetPropertyBagValues.ps1 -SiteUrl 'http://client-t.be.deloitte.com/C/CUST0009002002' -Properties 'Edreams.SiteName:CUST0009002002:true;Edreams.ClientNumber:9002002:true'"

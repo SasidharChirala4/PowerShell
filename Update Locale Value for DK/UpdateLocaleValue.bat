@@ -1,0 +1,1 @@
+powershell.exe -command ".\UpdateLocaleValue.ps1 -siteUrlsFile 'C:\$@$!\Powershell\Update Locale Value for DK\SiteUrls.txt' -logFile 'C:\$@$!\Powershell\Update Locale Value for DK\error.log'"

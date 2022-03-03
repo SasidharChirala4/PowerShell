@@ -1,0 +1,1 @@
+powershell.exe -command ".\UpdateDateTimeFormat.ps1 -siteUrlsFile '.\AccSiteUrls.txt' -logFile '.\error.log'"

@@ -1,0 +1,1 @@
+powershell.exe -command ".\SetAssociatedMembersReadOnly.ps1 -filePath '.\SiteUrls.txt'"

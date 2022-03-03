@@ -1,0 +1,1 @@
+powershell.exe -command ".\AddTermSetForREVAndRA.ps1 -entrySiteUrl 'https://edreams4-t.be.deloitte.com/' -xmlFilePath 'C:\AddTermSetsForREVAndRA\e-DReaMS_PreReqTerms.xml'"

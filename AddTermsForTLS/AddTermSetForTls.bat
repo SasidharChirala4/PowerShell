@@ -1,0 +1,1 @@
+powershell.exe -command ".\AddTermSetForTls.ps1 -entrySiteUrl 'https://edreams.deloitte.be/' -xmlFilePath '.\e-DReaMS_PreReqTerms.xml'"

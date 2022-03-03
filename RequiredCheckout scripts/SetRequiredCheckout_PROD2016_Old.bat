@@ -1,0 +1,11 @@
+powershell.exe -command ".\SetRequiredCheckout.ps1 -SiteUrl https://edreams.deloitte.be/Sites/3u0t10c4 -CheckoutRequired $false
+powershell.exe -command ".\SetRequiredCheckout.ps1 -SiteUrl https://edreams.deloitte.be/Sites/3vdf752d -CheckoutRequired $false
+powershell.exe -command ".\SetRequiredCheckout.ps1 -SiteUrl https://edreams.deloitte.be/Sites/3uducs0d -CheckoutRequired $false
+powershell.exe -command ".\SetRequiredCheckout.ps1 -SiteUrl https://edreams.deloitte.be/Sites/3vqbjfur -CheckoutRequired $false
+powershell.exe -command ".\SetRequiredCheckout.ps1 -SiteUrl https://edreams.deloitte.be/Sites/3vh816it -CheckoutRequired $false
+powershell.exe -command ".\SetRequiredCheckout.ps1 -SiteUrl https://edreams.deloitte.be/Sites/3wkkfuk7 -CheckoutRequired $false
+powershell.exe -command ".\SetRequiredCheckout.ps1 -SiteUrl https://edreams.deloitte.be/Sites/3vrrffms -CheckoutRequired $false
+powershell.exe -command ".\SetRequiredCheckout.ps1 -SiteUrl https://edreams.deloitte.be/Sites/3vx9o431 -CheckoutRequired $false
+powershell.exe -command ".\SetRequiredCheckout.ps1 -SiteUrl https://edreams.deloitte.be/Sites/3unhvhj0 -CheckoutRequired $false
+powershell.exe -command ".\SetRequiredCheckout.ps1 -SiteUrl https://edreams.deloitte.be/Sites/3vgohkiz -CheckoutRequired $false
+powershell.exe -command ".\SetRequiredCheckout.ps1 -SiteUrl https://edreams.deloitte.be/Sites/3vhwjcba -CheckoutRequired $false

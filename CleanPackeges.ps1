@@ -1,0 +1,1 @@
+﻿Get-ChildItem "c:\" -include bin,obj,packages,TestResults -Recurse | foreach ($_) { Write-Progress $_.fullname; remove-item "$($_.fullname)\*"  -Force -Recurse }  

@@ -1,0 +1,1 @@
+powershell.exe -command ".\RemoveNavigationLink.ps1 -siteCollFileUrl 'C:\$@$!\Powershell\Remove Navigation Link\SiteUrls.txt' -logFile 'C:\$@$!\Powershell\Remove Navigation Link\error.log'"

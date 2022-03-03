@@ -1,0 +1,1 @@
+powershell.exe -command ".\DeprecateTerms.ps1 -entrySiteUrl 'https://edreams-a.deloitte.be' -deprecateTerms $true -textFilePath '.\DeprecateTerms.txt'"

@@ -1,0 +1,1 @@
+powershell.exe -command ".\UpdateFieldDefaultValue.ps1 -siteUrlsFile 'C:\UpdateOfficeValue\AccSiteUrls.txt' -logFile 'C:\UpdateOfficeValue\error.log'"
